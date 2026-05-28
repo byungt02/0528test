@@ -2,10 +2,17 @@
 //
 
 #include <iostream>
-
+#include "mul.h"
+#include "sub.h"
+#include "add.h"
 int main()
 {
+    int a = 5;
+    int b = 3;
     std::cout << "Hello World!\n";
+    std::cout << mul(a, b) << std::endl;
+    std::cout << add(a, b) << std::endl;
+    std::cout << sub(a, b) << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
