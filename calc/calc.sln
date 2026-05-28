@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calc", "calc\calc.vcxproj", "{EB79667C-6142-4AE1-AD25-451E680EB625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Debug|x64.ActiveCfg = Debug|x64
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Debug|x64.Build.0 = Debug|x64
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Debug|x86.Build.0 = Debug|Win32
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Release|x64.ActiveCfg = Release|x64
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Release|x64.Build.0 = Release|x64
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Release|x86.ActiveCfg = Release|Win32
+		{EB79667C-6142-4AE1-AD25-451E680EB625}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43346DC9-044F-4120-A3A5-7F8347954A86}
+	EndGlobalSection
+EndGlobal
